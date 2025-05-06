@@ -1,1 +1,1 @@
-savedcmd_/home/kampadais/Desktop/ublk_drv/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/kampadais/Desktop/ublk_drv/Module.symvers -T /home/kampadais/Desktop/ublk_drv/modules.order -i Module.symvers -e 
+savedcmd_/home/kampadais/Desktop/Dev/ublk_drv/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/kampadais/Desktop/Dev/ublk_drv/Module.symvers -T /home/kampadais/Desktop/Dev/ublk_drv/modules.order -i Module.symvers -e 

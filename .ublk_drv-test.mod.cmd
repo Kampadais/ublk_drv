@@ -1,1 +1,1 @@
-savedcmd_/home/kampadais/Desktop/ublk_drv/ublk_drv-test.mod := printf '%s\n'   ublk_drv-test.o | awk '!x[$$0]++ { print("/home/kampadais/Desktop/ublk_drv/"$$0) }' > /home/kampadais/Desktop/ublk_drv/ublk_drv-test.mod
+savedcmd_/home/kampadais/Desktop/Dev/ublk_drv/ublk_drv-test.mod := printf '%s\n'   ublk_drv-test.o | awk '!x[$$0]++ { print("/home/kampadais/Desktop/Dev/ublk_drv/"$$0) }' > /home/kampadais/Desktop/Dev/ublk_drv/ublk_drv-test.mod
